@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_OptionsInForm</name>
+   <tag></tag>
+   <elementGuidId>34e5566a-2a66-4828-a149-3eed20ec6d90</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='simple-popover']//div[contains(@class,'MuiPopover-paper')]//span[normalize-space()='${param}']/parent::div/preceding-sibling::div//input</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

@@ -1,0 +1,5 @@
+Combination,Common Failure Modes,Functional Location,Equipment,Equipment Type,Process Medium,Plant Code,Plant Name,OPU Nature,Distribution,Parameter 1,Parameter 2,Mean Time Between Failure (days),Std Dev Between Failure (days),Mean Time Between Failure (years),Std Dev Between Failure (years)
+00-EFL-001,"Rectify (33%), Replace (33%), Fault (33%), Others (1%)",,,,,,,,2P-Weibull,1,6206,6206,6206,17,17
+00-HVC-001,"Split (50%), Block (50%)",,,,,,,,2P-Weibull,1,6206,6206,6206,17,17
+00-PEG5-001,"Unknown (67%), Fluctuate (33%)",,,,,,,,2P-Weibull,1,2068.666667,2068.67,2068.67,5.67,5.67
+00-PSW2-001AR,"Miss (25%), Rectify (25%), Replace (25%), Trip (25%)",,,,,,,,2P-Weibull,1,3103,3103,3103,8.5,8.5

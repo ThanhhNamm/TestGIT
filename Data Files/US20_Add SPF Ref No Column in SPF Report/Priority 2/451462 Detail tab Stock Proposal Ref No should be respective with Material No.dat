@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description></description>
+   <name>451462 Detail tab Stock Proposal Ref No should be respective with Material No</name>
+   <tag></tag>
+   <connectionProperties/>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>fa8f0296-0a02-4f76-b11b-466bc2fa5135</dataFileGUID>
+   <dataSourceUrl>Data/Data File/US20_Add SPF Ref No Column in SPF Report/451462 Detail tab Stock Proposal Ref No should be respective with Material No.xlsx</dataSourceUrl>
+   <driver>ExcelFile</driver>
+   <isInternalPath>true</isInternalPath>
+   <query></query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName>Sheet1</sheetName>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>

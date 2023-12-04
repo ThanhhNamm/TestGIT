@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description></description>
+   <name>445779 Material Forecast Report Table should display record with stock 0 when stock out toggle on</name>
+   <tag></tag>
+   <connectionProperties/>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>c81a4d5c-598c-4944-a49f-2f994839d54c</dataFileGUID>
+   <dataSourceUrl>Data/Data File/US26_Material Forecast Report Phase 1/445779 Material Forecast Report Table should display record with stock 0 when stock out toggle on.xlsx</dataSourceUrl>
+   <driver>ExcelFile</driver>
+   <isInternalPath>true</isInternalPath>
+   <query></query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName>Sheet1</sheetName>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>

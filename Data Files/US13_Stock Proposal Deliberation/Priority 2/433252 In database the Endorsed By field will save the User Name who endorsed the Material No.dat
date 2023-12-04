@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description></description>
+   <name>433252 In database the Endorsed By field will save the User Name who endorsed the Material No</name>
+   <tag></tag>
+   <connectionProperties/>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>2a565df4-11b7-4e81-bc6d-a56bafbf175e</dataFileGUID>
+   <dataSourceUrl>Data/Data File/US13_Stock Proposal Deliberation/433252 In database the Endorsed By field will save the User Name who endorsed the Material No.xlsx</dataSourceUrl>
+   <driver>ExcelFile</driver>
+   <isInternalPath>true</isInternalPath>
+   <query></query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName>Sheet1</sheetName>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>
